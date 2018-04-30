@@ -1,0 +1,43 @@
+{
+"colorArray":[ "#000000", "#27AE60", "#16A085", "#364C62", "#F1C40F", "#E67E22", "#E74C3C", "#2980B9", "#8E44AD", "#2C3E50", "#F39C12", "#D35400", "#C0392B", "#BDC3C7","#1ABC9C", "#2ECC71", "#E87AC2", "#3498DB", "#9B59B6", "#7F8C8D"],
+
+"segmentValuesArray" : [
+  {"probability":40, "type": "string", "value": "Bet Boost", "win": false, "resultText": "You won 3 Extra Bet Boosts!", "userData": {"score":0}},
+  {"probability":12.5, "type": "string", "value": "$25", "win": true, "resultText": "You won $25 Extra Bonus Bets!", "userData": {"score":25}},
+  {"probability":12.5, "type": "string", "value": "$50", "win": true, "resultText": "You won $50 Extra Bonus Bets!", "userData": {"score":50}},
+  {"probability":10, "type": "string", "value": "$75", "win": true, "resultText": "You won $75 Extra Bonus Bets!", "userData": {"score":75}},
+  {"probability":10, "type": "string", "value": "$100", "win": true, "resultText": "You won $100 Extra Bonus Bets!", "userData": {"score":100}},
+  {"probability":5, "type": "string", "value": "$150", "win": true, "resultText": "You won $150 Extra Bonus Bets!", "userData": {"score":150}},
+  {"probability":5, "type": "string", "value": "$300", "win": true, "resultText": "You won $300 ExtraBonus Bets!", "userData": {"score":300}}
+],
+
+  "svgWidth": 1024,
+  "svgHeight": 768,
+  "wheelStrokeColor": "#D0BD0C",
+  "wheelStrokeWidth": 18,
+  "wheelSize": 700,
+  "wheelTextOffsetY": 105,
+  "wheelTextColor": "#EDEDED",  
+  "wheelTextSize": "3.2em",
+  "wheelImageOffsetY": 40,
+  "wheelImageSize": 50,
+  "centerCircleSize": 360,
+  "centerCircleStrokeColor": "#F1DC15",
+  "centerCircleStrokeWidth": 12,
+  "centerCircleFillColor": "#EDEDED",
+  "segmentStrokeColor": "#E2E2E2",
+  "segmentStrokeWidth": 4,
+  "centerX": 512,
+  "centerY": 384,  
+  "hasShadows": true,
+  "numSpins": 1000,
+  "spinDestinationArray":[],
+  "minSpinDuration":1,
+  "gameOverText":"Thanks for playing.",
+  "invalidSpinText":"INVALID SPIN. PLEASE SPIN AGAIN.",
+  "introText":"SPIN <span style='color:#F282A9;'>2</span> WIN!",
+  "hasSound":true,
+  "gameId":"9a0232ec06bc431114e2a7f3aea03bbe2164f1aa",
+  "clickToSpin":true,
+  "spinDirection":"ccw"
+}
